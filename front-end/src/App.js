@@ -106,8 +106,8 @@ function App() {
             </div>
           </div>
         ))}
-   
       </div>
+      <div class="item-body2">https://github.com/ethanp611/CreativeProject4.git</div>
         <Popup trigger={popup} setTrigger={setPopup}>
             <div class="title">{currHobby}</div>
             <div class="item-body2">{currPrice}</div>
